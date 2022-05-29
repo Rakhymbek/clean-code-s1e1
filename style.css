@@ -162,11 +162,11 @@
   display: none;
 }
 
-.tasks .tasks-edit .input__task {
+.tasks .tasks__item_editable .input__task {
   display: inline-block;
   width: 224px;
 }
 
-.tasks .tasks-edit .tasks__label {
+.tasks .tasks__item_editable .tasks__label {
   display: none;
 }
